@@ -164,6 +164,7 @@ elif menu == "Données Supplémentaires":
     3. **Données sur les préférences des clients** :
        - Préférences en matière de goût, d'emballage, etc.
        - Ces données aideront à développer de nouveaux produits et à améliorer les produits existants.
+       -Données de satisfaction client: Retours sur les produits et services.
     """)
 
 
